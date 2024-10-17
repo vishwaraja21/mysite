@@ -1,0 +1,9 @@
+li a {
+    color: white;
+}
+
+body {
+    background: url("images/background.jpg") no-repeat;
+    background-position: center;
+    background-size: cover;
+}
